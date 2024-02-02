@@ -21,9 +21,7 @@ git clone https://github.com/user319183/PhantomBrowsing.git
 cd PhantomBrowsing
 ```
 3. Install the required Python packages:
-```sh
-pip install -r requirements.txt
-```
+
 4. Run the application:
 ```sh
 python main.py
